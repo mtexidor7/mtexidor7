@@ -37,7 +37,6 @@ Welcome to the structured repository of **Prompt Architect AI**, a system design
 - [🕸️ Concept Map JSON](./prompt_architect_ai_concept_map.json)
 - [📋 Manifest File](./manifest.json)
 
-Use this file to navigate all primary documentation and link sections directly within your GitHub repository or documentation portal.
 title: "Prompt Architect AI - Master System Specification"
 chunk_id: "prompt-architect-ai-intro"
 chunk_index: 1/8
